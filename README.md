@@ -2,6 +2,8 @@
 first install
 
 npm i express nodemailer cors dotenv
+#in .evn
+GiVeYoUrPASSwoRd //from your: manageGoogleaccount > security > twostepvarification > create a app and copy the code paste here
 
 #in your front end submit data 
 ==================================================================
