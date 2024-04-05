@@ -1,5 +1,7 @@
 # PortfolioBackend
+first install
 
+npm i express nodemailer cors dotenv
 
 #in your front end submit data 
 ==================================================================
